@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "821920325743",
+    "firebase_url": "https://eatitv2-b2c5e.firebaseio.com",
+    "project_id": "eatitv2-b2c5e",
+    "storage_bucket": "eatitv2-b2c5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821920325743:android:56d43d9ab3c97424336d9a",
+        "android_client_info": {
+          "package_name": "com.example.kotlineatitv2client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821920325743-snlvbprqarv2l1rkibhbt0g2bfr6tnqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqzdzaD3HvTpBGjv_FZab-HPSUgkmMCd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821920325743-snlvbprqarv2l1rkibhbt0g2bfr6tnqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

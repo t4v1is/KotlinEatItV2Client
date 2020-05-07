@@ -1,0 +1,7 @@
+<root>
+    <item name='dmax.dialog.SpotsDialog.Builder Builder()'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true" />
+        </annotation>
+    </item>
+</root>
